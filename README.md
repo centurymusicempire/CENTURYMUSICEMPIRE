@@ -131,9 +131,10 @@
   <h2 class="section-title">Listen on Streaming Platforms</h2>
   <div class="grid">
     <div class="card"><iframe src="https://open.spotify.com/embed" width="100%" height="80"></iframe></div>
-    <div class="card"><iframe src="https://audiomack.com/embed" width="100%" height="80"></iframe></div>
+    <iframe src="https://audiomack.com//embed/centurymusicempire/song/i-propose-to-you-kimcug" scrolling="no" width="100%" height="252" frameborder="0" title="I Propose To You"></iframe>
     <div class="card"><iframe src="https://music.apple.com" width="100%" height="80"></iframe></div>
   </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_0in7cOE4hg?si=tOcF-ksUyDLuBTuT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
 <section id="booking">
@@ -157,7 +158,7 @@
   <div class="social" style="text-align:center;">
     <a href="#">Facebook</a>
     <a href="#">Instagram</a>
-    <a href="#">YouTube</a>
+    <a href="#">[YouTube](https://www.youtube.com/@kimcug3321)</a>
     <a href="#">TikTok</a>
   </div>
 </section>
